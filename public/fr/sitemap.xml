@@ -3,307 +3,307 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/%E2%80%9D/fr/blog/</loc>
+    <loc>/fr/blog/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/%E2%80%9D/blog/"
+                href="/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/%E2%80%9D/pl/blog/"
+                href="/pl/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="/%E2%80%9D/br/blog/"
+                href="/br/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/%E2%80%9D/fr/blog/"
+                href="/fr/blog/"
                 />
   </url>
   
   <url>
-    <loc>/%E2%80%9D/fr/categories/</loc>
+    <loc>/fr/categories/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/%E2%80%9D/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/%E2%80%9D/pl/categories/"
+                href="/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="/%E2%80%9D/br/categories/"
+                href="/br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/%E2%80%9D/fr/categories/"
+                href="/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>/%E2%80%9D/fr/blog/creating-a-new-theme/</loc>
+    <loc>/fr/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/%E2%80%9D/blog/creating-a-new-theme/"
+                href="/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/%E2%80%9D/pl/blog/creating-a-new-theme/"
+                href="/pl/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="/%E2%80%9D/br/blog/creating-a-new-theme/"
+                href="/br/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/%E2%80%9D/fr/blog/creating-a-new-theme/"
+                href="/fr/blog/creating-a-new-theme/"
                 />
   </url>
   
   <url>
-    <loc>/%E2%80%9D/fr/categories/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/%E2%80%9D/categories/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="/%E2%80%9D/pl/categories/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="/%E2%80%9D/br/categories/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/%E2%80%9D/fr/categories/hugo/"
-                />
-  </url>
-  
-  <url>
-    <loc>/%E2%80%9D/fr/</loc>
+    <loc>/fr/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/%E2%80%9D/"
+                href="/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/%E2%80%9D/pl/"
+                href="/pl/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="/%E2%80%9D/br/"
+                href="/br/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/%E2%80%9D/fr/"
+                href="/fr/categories/hugo/"
                 />
   </url>
   
   <url>
-    <loc>/%E2%80%9D/fr/about/</loc>
+    <loc>/fr/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/%E2%80%9D/about/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/%E2%80%9D/pl/about/"
+                href="/pl/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="/%E2%80%9D/br/about/"
+                href="/br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/%E2%80%9D/fr/about/"
+                href="/fr/about/"
                 />
   </url>
   
   <url>
-    <loc>/%E2%80%9D/fr/blog/goisforlovers/</loc>
+    <loc>/fr/blog/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/%E2%80%9D/blog/goisforlovers/"
+                href="/blog/goisforlovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/%E2%80%9D/pl/blog/goisforlovers/"
+                href="/pl/blog/goisforlovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/%E2%80%9D/fr/blog/goisforlovers/"
+                href="/fr/blog/goisforlovers/"
                 />
   </url>
   
   <url>
-    <loc>/%E2%80%9D/fr/blog/hugoisforlovers/</loc>
+    <loc>/fr/blog/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/%E2%80%9D/blog/hugoisforlovers/"
+                href="/blog/hugoisforlovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/%E2%80%9D/pl/blog/hugoisforlovers/"
+                href="/pl/blog/hugoisforlovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/%E2%80%9D/fr/blog/hugoisforlovers/"
+                href="/fr/blog/hugoisforlovers/"
                 />
   </url>
   
   <url>
-    <loc>/%E2%80%9D/fr/categories/go/</loc>
+    <loc>/fr/categories/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/%E2%80%9D/categories/go/"
+                href="/categories/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/%E2%80%9D/pl/categories/go/"
+                href="/pl/categories/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/%E2%80%9D/fr/categories/go/"
+                href="/fr/categories/go/"
                 />
   </url>
   
   <url>
-    <loc>/%E2%80%9D/fr/categories/jekyll/</loc>
+    <loc>/fr/categories/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/%E2%80%9D/categories/jekyll/"
+                href="/categories/jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/%E2%80%9D/pl/categories/jekyll/"
+                href="/pl/categories/jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/%E2%80%9D/fr/categories/jekyll/"
+                href="/fr/categories/jekyll/"
                 />
   </url>
   
   <url>
-    <loc>/%E2%80%9D/fr/blog/migrate-from-jekyll/</loc>
+    <loc>/fr/blog/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/%E2%80%9D/blog/migrate-from-jekyll/"
+                href="/blog/migrate-from-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/%E2%80%9D/pl/blog/migrate-from-jekyll/"
+                href="/pl/blog/migrate-from-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/%E2%80%9D/fr/blog/migrate-from-jekyll/"
+                href="/fr/blog/migrate-from-jekyll/"
                 />
   </url>
   
   <url>
-    <loc>/%E2%80%9D/fr/contact/</loc>
+    <loc>/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/%E2%80%9D/contact/"
+                href="/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/%E2%80%9D/pl/contact/"
+                href="/pl/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="/%E2%80%9D/br/contact/"
+                href="/br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/%E2%80%9D/fr/contact/"
+                href="/fr/contact/"
                 />
   </url>
   
   <url>
-    <loc>/%E2%80%9D/fr/tags/</loc>
+    <loc>/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/%E2%80%9D/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="/%E2%80%9D/pl/tags/"
+                href="/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="/%E2%80%9D/br/tags/"
+                href="/br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/%E2%80%9D/fr/tags/"
+                href="/fr/tags/"
                 />
   </url>
   

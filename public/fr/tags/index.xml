@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Future Imperfect Slim in fr</title>
-    <link>/%E2%80%9D/fr/tags/</link>
+    <link>/fr/tags/</link>
     <description>Recent content in Tags on Hugo Future Imperfect Slim in fr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
-	<atom:link href="/%E2%80%9D/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
