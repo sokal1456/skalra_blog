@@ -2,22 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Confessions of an Analyst</title>
-    <link>/categories/</link>
+    <link>https://sokal1456.netlify.com/categories/</link>
     <description>Recent content in Categories on Confessions of an Analyst</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sokal1456.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

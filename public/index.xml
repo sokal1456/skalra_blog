@@ -2,23 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Confessions of an Analyst</title>
-    <link>/</link>
+    <link>https://sokal1456.netlify.com/</link>
     <description>Recent content on Confessions of an Analyst</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sokal1456.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello World</title>
-      <link>/blog/hello_world/</link>
-      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/hello_world/</guid>
-      <description>“The secret of getting ahead is getting started.” – Mark Twain Welcome to my blog. I will primarily devote this blog to exploring new (at least new to me!) techniques in data science with Python and R. I have wanted to do this for a little while now and am excited to be sharing this journey with you. A few caveats:
-This blog represents my personal views and learning journey.</description>
-    </item>
     
   </channel>
 </rss>

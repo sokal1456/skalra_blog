@@ -1,13 +1,14 @@
----
-title: "Hello World"
-date: 2019-08-11
-categories: ["R"]
-tags: ["blog","life"]
----
++++
+categories = ["intro"]
+date = "2019-08-21"
+description = "Blog Launch"
+featured = "stairway.jpg"
+featuredpath = "date"
+linktitle = ""
+title = "Hello World"
+type = "post"
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
++++
 
 # “The secret of getting ahead is getting started.” – Mark Twain
 
@@ -17,5 +18,6 @@ A few caveats:
 
 1. This blog represents my personal views and learning journey. 
 
-2. Please use the material in this blog as a reference point as I don't claim to be an expert on any of these topics.
+2. Please use the material in this blog as a reference as I don't claim to be an expert on any of these topics.
+
 

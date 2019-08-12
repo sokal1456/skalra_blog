@@ -5,19 +5,20 @@
     <link>/blog/</link>
     <description>Recent content in Blog on Confessions of an Analyst</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>/blog/hello_world/</link>
-      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      <link>/blog/creating-a-new-theme/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/hello_world/</guid>
-      <description>“The secret of getting ahead is getting started.” – Mark Twain Welcome to my blog. I will primarily devote this blog to exploring new (at least new to me!) techniques in data science with Python and R. I have wanted to do this for a little while now and am excited to be sharing this journey with you. A few caveats:
-This blog represents my personal views and learning journey.</description>
+      <guid>/blog/creating-a-new-theme/</guid>
+      <description>“The secret of getting ahead is getting started.” – Mark Twain Welcome to my blog. I will primarily devote this blog to exploring new (at least new to me!) techniques in data science with Python and R. I have wanted to do this for a little while now and am excited to share this journey with you.
+A few caveats:
+ This blog represents my personal views and learning journey.</description>
     </item>
     
   </channel>

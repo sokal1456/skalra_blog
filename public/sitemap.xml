@@ -3,59 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://sokal1456.netlify.com/about/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <loc>https://sokal1456.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <loc>https://sokal1456.netlify.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <loc>https://sokal1456.netlify.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sokal1456.netlify.com/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/hello_world/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/life/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
   </url>
   
 </urlset>
