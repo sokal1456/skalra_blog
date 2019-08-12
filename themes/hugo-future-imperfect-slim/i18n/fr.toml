@@ -1,0 +1,48 @@
+[date_format]
+  other = "02-01-2006"
+[postreadingtime]
+  other = "minutes"
+[recent_posts]
+  other = "Posts récents"
+[see_more]
+  other = "Voir plus"
+[read_more]
+  other = "Lire la suite"
+[categories]
+  other = "Catégories"
+[category]
+  other = "Catégorie"
+[tags]
+  other = "Tags"
+[tag]
+  other = "Tag"
+[uncategorized]
+  other = "Non catégorisé"
+[share_post]
+  other = "Partager ce post"
+[about]
+  other = "A propos"
+[learn_more]
+  other = "En savoir plus"
+[repliestext]
+  other = "Réponse généralement en"
+[hours]
+  other = "heures"
+[submit]
+  other = "Envoyer"
+[404_oops]
+  other = "Oops, la page que vous<br/>demandez n'existe pas."
+[404_backorreport]
+  other = "Vous pouvez retourner à la page d'accueil.<br/>En cas de souci technique avec le site, contactez-moi par le formulaire dans l'onglet « Contact »."
+[404_gotohome]
+  other = "Accueil"
+[404_report]
+  other = "Signaler un problème"
+[blog]
+  other = "Blog"
+[contact]
+  other = "Contact"
+[next_page]
+  other = "Page suivante"
+[previous_page]
+  other = "Page précédente"
