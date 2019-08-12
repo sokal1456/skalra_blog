@@ -8,11 +8,9 @@ My name is Soumya Kalra and I’m a Quantitative Risk Specialist in market risk 
 Personally, I have just relocated to the bay area from the east coast and love exploring the beautiful landscapes here so all recommendations are welcome.
 
 # Interests
-Machine Learning
-Quantitative Finance
-Systemic Risk
-R-Ladies
-
+- Machine Learning
+- Quantitative Finance
+- Systemic Risk
 
 
 
