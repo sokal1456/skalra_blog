@@ -1,4 +1,4 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "https://sokal1456.netlify.com/”"
 DefaultContentLanguage  = "en"
 title                   = "Hugo Future Imperfect Slim"
 theme = "hugo-future-imperfect-slim"

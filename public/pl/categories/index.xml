@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo przyszłość niedoskonała</title>
-    <link>/pl/categories/</link>
+    <link>/%E2%80%9D/pl/categories/</link>
     <description>Recent content in Categories on Hugo przyszłość niedoskonała</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/pl/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/%E2%80%9D/pl/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>/pl/categories/hugo/</link>
+      <link>/%E2%80%9D/pl/categories/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/pl/categories/hugo/</guid>
+      <guid>/%E2%80%9D/pl/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>/pl/categories/go/</link>
+      <link>/%E2%80%9D/pl/categories/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/pl/categories/go/</guid>
+      <guid>/%E2%80%9D/pl/categories/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>/pl/categories/jekyll/</link>
+      <link>/%E2%80%9D/pl/categories/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/pl/categories/jekyll/</guid>
+      <guid>/%E2%80%9D/pl/categories/jekyll/</guid>
       <description></description>
     </item>
     

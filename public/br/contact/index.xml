@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contato on Hugo Future Imperfect Slim em português</title>
-    <link>/br/contact/</link>
+    <link>/%E2%80%9D/br/contact/</link>
     <description>Recent content in Contato on Hugo Future Imperfect Slim em português</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>br</language>
     
-	<atom:link href="/br/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/%E2%80%9D/br/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
