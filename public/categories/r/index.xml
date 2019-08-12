@@ -2,24 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Hugo Future Imperfect Slim</title>
-    <link>/categories/r/</link>
+    <link>https://sokal1456.netlify.com/categories/r/</link>
     <description>Recent content in R on Hugo Future Imperfect Slim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sokal1456.netlify.com/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Hello World</title>
+      <link>https://sokal1456.netlify.com/blog/hello_world/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>https://sokal1456.netlify.com/blog/hello_world/</guid>
+      <description>“The secret of getting ahead is getting started.” – Mark Twain Welcome to my blog. I will primarily devote this blog to exploring new (at least new to me!) techniques in data science with Python and R. I have wanted to do this for a little while now and am excited to be sharing this journey with you. A few caveats:
+This blog represents my personal views and learning journey.</description>
     </item>
     
   </channel>

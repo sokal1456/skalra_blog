@@ -1,32 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>/en/sitemap.xml</loc>
-		
-	   	<lastmod>2019-01-01T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2014-09-28T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/pl/sitemap.xml</loc>
-		
-	   	<lastmod>2014-09-28T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/br/sitemap.xml</loc>
-		
-	   	<lastmod>2014-09-28T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sokal1456.netlify.com/blog/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sokal1456.netlify.com/categories/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sokal1456.netlify.com/blog/hello_world/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sokal1456.netlify.com/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sokal1456.netlify.com/categories/r/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sokal1456.netlify.com/tags/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sokal1456.netlify.com/tags/blog/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sokal1456.netlify.com/tags/life/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sokal1456.netlify.com/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sokal1456.netlify.com/about/_index.br/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sokal1456.netlify.com/contact/</loc>
+  </url>
+  
+</urlset>
