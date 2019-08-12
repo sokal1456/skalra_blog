@@ -1,6 +1,6 @@
 baseurl                 = "https://sokal1456.netlify.com/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "Confessions of an Analyst"
 theme = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
@@ -45,7 +45,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Soumya Kalra"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
@@ -55,15 +55,15 @@ disableLanguages        = [""]
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "Confessions of an Analyst"
+    paragraph             = ""
     rssIntro              = true
     socialIntro           = true
 
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/logo.jpg"
+      src                 = "/img/main/soumya.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = ""

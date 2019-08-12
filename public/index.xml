@@ -1,36 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Future Imperfect Slim</title>
-    <link>https://sokal1456.netlify.com/</link>
-    <description>Recent content on Hugo Future Imperfect Slim</description>
+    <title>Confessions of an Analyst</title>
+    <link>/</link>
+    <description>Recent content on Confessions of an Analyst</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sokal1456.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>https://sokal1456.netlify.com/blog/hello_world/</link>
+      <link>/blog/hello_world/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sokal1456.netlify.com/blog/hello_world/</guid>
+      <guid>/blog/hello_world/</guid>
       <description>“The secret of getting ahead is getting started.” – Mark Twain Welcome to my blog. I will primarily devote this blog to exploring new (at least new to me!) techniques in data science with Python and R. I have wanted to do this for a little while now and am excited to be sharing this journey with you. A few caveats:
 This blog represents my personal views and learning journey.</description>
-    </item>
-    
-    <item>
-      <title>Sobre Hugo</title>
-      <link>https://sokal1456.netlify.com/about/_index.br/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sokal1456.netlify.com/about/_index.br/</guid>
-      <description>Hugo é um gerador de site escrito em Go.
-Ele utiliza vários projetos open source, incluindo:
- Cobra Viper J Walter Weatherman Cast  Aprenda mais e contribua no GitHub.
-Setup Algumas curiosidades sobre Hugo:
- Feito com Go Loosely inspired by Jekyll Inicialmente desenvolvido by spf13 em um trem enquanto viajava de e para Manhattan. Codificado no Vim usando spf13-vim  Alguma pergunta ou sugestão? Está livre para abrir uma issue no GitHub ou perguntar no Twitter.</description>
     </item>
     
   </channel>

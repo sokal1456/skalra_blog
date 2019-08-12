@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Hugo Future Imperfect Slim</title>
-    <link>https://sokal1456.netlify.com/blog/</link>
-    <description>Recent content in Blog on Hugo Future Imperfect Slim</description>
+    <title>Blog on Confessions of an Analyst</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Confessions of an Analyst</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sokal1456.netlify.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>https://sokal1456.netlify.com/blog/hello_world/</link>
+      <link>/blog/hello_world/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sokal1456.netlify.com/blog/hello_world/</guid>
+      <guid>/blog/hello_world/</guid>
       <description>“The secret of getting ahead is getting started.” – Mark Twain Welcome to my blog. I will primarily devote this blog to exploring new (at least new to me!) techniques in data science with Python and R. I have wanted to do this for a little while now and am excited to be sharing this journey with you. A few caveats:
 This blog represents my personal views and learning journey.</description>
     </item>

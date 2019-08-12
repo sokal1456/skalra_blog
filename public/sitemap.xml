@@ -3,65 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sokal1456.netlify.com/blog/</loc>
+    <loc>/about/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sokal1456.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sokal1456.netlify.com/blog/hello_world/</loc>
-    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sokal1456.netlify.com/</loc>
+    <loc>/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sokal1456.netlify.com/categories/r/</loc>
+    <loc>/blog/hello_world/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sokal1456.netlify.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sokal1456.netlify.com/tags/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sokal1456.netlify.com/tags/life/</loc>
+    <loc>/tags/life/</loc>
     <lastmod>2019-08-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sokal1456.netlify.com/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sokal1456.netlify.com/about/_index.br/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sokal1456.netlify.com/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
 </urlset>

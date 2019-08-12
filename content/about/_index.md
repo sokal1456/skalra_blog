@@ -1,29 +1,20 @@
 ---
-date: "2014-04-09"
-title: About Hugo
+date: "2019-08-11"
+title: About Me
 ---
 
-Hugo is a static site engine written in Go.
+My name is Soumya Kalra and I’m a Quantitative Risk Specialist in market risk and trading. This blog is focused on my personal learning journey as I devote time to learning the ever changing landscape of data science. I have also been an active open source community organizer by founding the R-Ladies New York chapter (https://www.rladiesnyc.org).
+
+Personally, I have just relocated to the bay area from the east coast and love exploring the beautiful landscapes here so all recommendations are welcome.
+
+# Interests
+Machine Learning
+Quantitative Finance
+Systemic Risk
+R-Ladies
 
 
-It makes use of a variety of open source projects including:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
 
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+Disclaimer: This blog represents my personal views and are not shared by my employer.
